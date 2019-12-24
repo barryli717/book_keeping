@@ -1,6 +1,6 @@
 # book_keeping
  
-For book keeping and related operations.
+For book keeping and related operations. To make these programs runnable on mobile phones, these programms are written in `.ipynb` files, thus we can run the codes on Azure Notebook.
 
 ## Operations
 
